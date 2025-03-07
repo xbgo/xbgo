@@ -16,8 +16,6 @@
 ---
 
 ## 📊 GitHub
-- **Stats**:  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xbgo&show_icons=true&theme=radical)  
 - **Top Langs**:  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xbgo&layout=compact&theme=radical)  
 
